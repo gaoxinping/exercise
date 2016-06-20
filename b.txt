@@ -1,2 +1,3 @@
 practise push aa bb cc
 branch push bb
+remote add cc
